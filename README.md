@@ -1,1 +1,1 @@
-This repository contains my Java coding practice independent learning.
+This repository contains my Java coding practice and independent learning.
